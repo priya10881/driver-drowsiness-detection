@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Driver drowsiness project artifacts
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/manifests/splits/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+results/*.json

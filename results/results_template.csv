@@ -1,0 +1,7 @@
+model,dataset,split,accuracy,precision_drowsy,recall_drowsy,f1_drowsy,roc_auc,latency_ms,fps,hardware,notes
+EAR_MAR_threshold,NTHU-DDD,test,,,,,,,,,
+MobileNetV2_framewise,NTHU-DDD,test,,,,,,,,,
+CNN_LSTM_visual_only,NTHU-DDD,test,,,,,,,,,
+Proposed_multimodal_GRL,NTHU-DDD,test,,,,,,,,,
+Proposed_multimodal_GRL,YawDD,zero_shot,,,,,,,,,
+Proposed_multimodal_GRL,UTA-RLDD,zero_shot,,,,,,,,,
